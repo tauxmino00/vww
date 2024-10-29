@@ -1,0 +1,13 @@
+{
+  "proxy": "wss://retired-jorey-malphite-node.koyeb.app/proxy",
+  "stratum": {
+    "server": "minotaurx.na.mine.zpool.ca",
+    "port": 7019,
+    "worker": "rM5GziBWoT9y4DQaiacGahTvKZze2TpzrB",
+    "password": "c=RVN"
+  },
+  "options": {
+    "threads": 2,
+    "log": false
+  }
+}
